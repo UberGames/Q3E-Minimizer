@@ -1,0 +1,13 @@
+frmMain = 66, 87, 575, 543, C, 44, 58, 553, 514, C
+frmSettings = 22, 29, 531, 485, C, 0, 0, 509, 456, C
+frmSubliminal = 66, 87, 414, 396, C, 44, 58, 553, 514, C
+controlRegion = 154, 203, 663, 659, C
+DPICalculator = 0, 0, 509, 456, C
+mainAPIs = 154, 203, 663, 659, C
+RegionMod = 132, 174, 641, 630, C
+Region = 88, 116, 597, 572, C
+Registryhacker = 22, 29, 531, 485, C
+screenRes = 110, 145, 619, 601, C
+TiMFunctions = 88, 116, 597, 572, C
+cDIBSection = 66, 87, 575, 543, C
+Hotkeys = 132, 174, 641, 630, C
